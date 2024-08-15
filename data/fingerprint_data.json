@@ -1,0 +1,30 @@
+[
+    {
+        "path": "/#/login",
+        "request_method": "get",
+        "request_headers": {},
+        "request_data": "",
+        "status_code": 0,
+        "headers": {},
+        "keyword": [
+            "<title>nacos</title>"
+        ],
+        "favicon_hash": [],
+        "priority": 1,
+        "name": "nacos"
+    },
+    {
+        "path": "/",
+        "request_method": "get",
+        "request_headers": {},
+        "request_data": "",
+        "status_code": 0,
+        "headers": {},
+        "keyword": [
+            "a.a.cn/frontend/login"
+        ],
+        "favicon_hash": [],
+        "priority": 1,
+        "name": "idaas"
+    }
+]
